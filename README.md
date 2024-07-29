@@ -13,18 +13,7 @@ Este proyecto es una aplicación sencilla para gestionar una colección de libro
 
 - Python 3.x
 - SQLite3 (incluido en Python estándar)
-
-## Instrucciones de Instalación
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/tuusuario/gestor-de-biblioteca.git
-   ```
-2. **Navegar al directorio del proyecto:**
-   ```bash
-   cd gestor-de-biblioteca
-   ```
-
+- \
 ## Uso
 
 1. Ejecuta el script principal:
